@@ -1,14 +1,13 @@
 [
   {
     "relation": [
-      "delegate_permission/common.handle_all_urls",
-      "delegate_permission/common.get_login_creds"
+      "delegate_permission/common.handle_all_urls"
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.bloom",
+      "package_name": "com.wellnessz.wod",
       "sha256_cert_fingerprints": [
-        "1E:D5:13:AA:AF:9C:1D:DF:43:3F:41:77:4B:DE:F7:58:29:AE:2D:C3:F7:93:58:A3:9C:43:4A:22:EA:FB:B2:E3"
+        "B5:35:19:94:07:48:13:92:91:74:A8:D7:B0:80:98:86:F9:CD:DD:01:AF:B1:2D:26:78:DA:74:FB:CB:5E:1C:B3"
       ]
     }
   }
