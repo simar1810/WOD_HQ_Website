@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 
 const PLAY_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.bloom&hl=en_ZA';
+  'https://play.google.com/store/apps/details?id=com.wellnessz.wod&hl=en-US';
 const APP_STORE_URL =
   'https://apps.apple.com/pl/app/body-under-observation/id6761055698';
 
